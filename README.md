@@ -21,7 +21,7 @@
 </div>
 <hr>
 <div align='center'>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JaimeJuarez&bg_color=ffffff&color=7d2c77&line=00ccc9&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kalg12&bg_color=ffffff&color=7d2c77&line=00ccc9&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   ![Profile views](https://gpvc.arturio.dev/JaimeJuarez)  
 </div>
