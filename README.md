@@ -1,4 +1,4 @@
-# Hi there, My name is Jaime Juarez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>
+<h1 align="center"> Hi there, My name is Jaime Juarez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> <h1/>
 
 
 
