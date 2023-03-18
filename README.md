@@ -1,9 +1,11 @@
 <h1 align="center"> Hi there, My name is Jaime Juarez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> <h1/>
-<h2 align="center"> I'm currently student of the school of telemathics in the university of colima<h2/>
+<h3 align="center"> I'm currently student of the school of telemathics in the university of colima<h3/>
 <h3 align="center"> Looking for new knowledge and job opportunities :) <h3/>
 
 <img src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" data-canonical-src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" width="100%" height="auto" />
 
+
+![](http://4.bp.blogspot.com/-YseUoftHKQA/VLXRjVR7e5I/AAAAAAAAN18/6pB8E_Ta8_I/s1600/juego-google-chrome-offline.gif)
 
 <div align="center">
 
@@ -11,7 +13,7 @@
 
    <p align="center">
   <a href="https://skillicons.dev">
-   
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,nodejs,react,php,wordpress,mysql,mongodb,firebase,c,git,github,docker,heroku,vscode" />
   </a>
   </p>
   
