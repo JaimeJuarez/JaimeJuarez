@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there, My name is Jaime Juarez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> <h1/>
-<h3 align="center"> I'm currently student of the school of telemathics in the university of colima<h3/>
-<h3 align="center"> Looking for new knowledge and job opportunities :) <h3/>
+<h1 align="center"> Hi there, My name is Jaime Juarez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h3 align="center"> I'm currently student of the school of telemathics in the university of colima</h3>
+<h3 align="center"> Looking for new knowledge and job opportunities :) </h3>
 
    <div align="center"><div/>
 <img src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" data-canonical-src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" width="70%" height="auto" />
