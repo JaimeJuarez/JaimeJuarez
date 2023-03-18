@@ -2,8 +2,8 @@
 <h3 align="center"> I'm currently student of the school of telemathics in the university of colima<h3/>
 <h3 align="center"> Looking for new knowledge and job opportunities :) <h3/>
 
-   <div align="center" style="display:flex;  justify-content:center; margin:0; width:100%;"><div/>
-<img src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" data-canonical-src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" width="auto" height="auto" />
+   <div align="center"><div/>
+<img src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" data-canonical-src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" width="60%" height="auto" />
 
 
 <!-- ![](http://4.bp.blogspot.com/-YseUoftHKQA/VLXRjVR7e5I/AAAAAAAAN18/6pB8E_Ta8_I/s1600/juego-google-chrome-offline.gif) -->
