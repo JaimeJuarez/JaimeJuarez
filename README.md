@@ -1,4 +1,4 @@
-### Hi there, My name is Jaime Juarez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>
+# Hi there, My name is Jaime Juarez <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>
 <hr/>
 
 
@@ -6,7 +6,7 @@
 
 ## I'm currently student of the school of telemathics in the university of colima
 
-# Looking for new knowledge and job opportunities :)
+### Looking for new knowledge and job opportunities :)
 
 <img src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" data-canonical-src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" width="100%" height="auto" />
 
