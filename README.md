@@ -3,7 +3,7 @@
 <h3 align="center"> Looking for new knowledge and job opportunities :) <h3/>
 
    <div align="center"><div/>
-<img src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" data-canonical-src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" width="60%" height="auto" />
+<img src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" data-canonical-src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" width="70%" height="auto" />
 
 
 <!-- ![](http://4.bp.blogspot.com/-YseUoftHKQA/VLXRjVR7e5I/AAAAAAAAN18/6pB8E_Ta8_I/s1600/juego-google-chrome-offline.gif) -->
