@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" data-canonical-src="https://raw.githubusercontent.com/JaimeJuarez/JaimeJuarez/main/dino.gif" width="100%" height="auto" />
 
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <!--
 **JaimeJuarez/JaimeJuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
